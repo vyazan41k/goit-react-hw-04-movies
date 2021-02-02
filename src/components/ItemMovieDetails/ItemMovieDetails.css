@@ -1,0 +1,32 @@
+.ItemMovieDetails {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.MovieImage {
+  margin-right: 40px;
+}
+
+.MovieImage img {
+  width: 300px;
+}
+
+.MovieDisc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.MovieDisc__Title,
+.MovieDisc__Score,
+.MovieDisc__Overview {
+  margin-bottom: 40px;
+}
+
+.MovieDisc__Genres__Text {
+  display: flex;
+}
+
+.MovieDisc__Genres__Text p {
+  margin-right: 5px;
+}

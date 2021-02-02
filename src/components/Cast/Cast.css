@@ -1,0 +1,11 @@
+.Cast {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.Cast-link {
+  width: 10%;
+  margin-bottom: 10px;
+}

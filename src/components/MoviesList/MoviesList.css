@@ -1,0 +1,15 @@
+.MoviesList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.MoviesList-item {
+  width: 30%;
+  margin-bottom: 30px;
+}
+
+.MoviesList-item__img {
+  width: 100%;
+}
